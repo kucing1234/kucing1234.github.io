@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
+   "Benerann?",
+    "Seriuss ga niii??",
+    "Masa siiiii?",
+    "pliss raraa",
+    "coba pikir lagi deh!",
+    "sedii banget aku kalo kamu bilang ngga...",
     "I will be very sad...",
     "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
+    "yaudaa kalo gitu....",
     "Just kidding, say yes please! ❤️"
 ];
 
